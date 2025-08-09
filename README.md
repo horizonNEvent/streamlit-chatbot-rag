@@ -26,7 +26,7 @@ Um chatbot inteligente construído com Streamlit que utiliza Retrieval-Augmented
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/streamlit-chatbot-rag.git
+git clone https://github.com/horizonNEvent/streamlit-chatbot-rag.git
 cd streamlit-chatbot-rag
 ```
 
@@ -75,12 +75,4 @@ Configure suas variáveis de ambiente ou insira a API Key diretamente na interfa
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📧 Contato
-
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - seu.email@exemplo.com
-
-Link do Projeto: [https://github.com/seu-usuario/streamlit-chatbot-rag](https://github.com/seu-usuario/streamlit-chatbot-rag)
